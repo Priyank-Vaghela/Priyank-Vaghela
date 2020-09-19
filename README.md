@@ -5,9 +5,9 @@ I love to create [innovative projects](https://priyankvaghela.com/projects "pri
 
 Apart from being a forever student, I'm a nature-lover; travelling and photography are my hobbies.
 
-#### I also maintain a Quora Space for AWS enthusiasts: [☁️ Everything AWS Cloud](https://www.quora.com/q/awscloud "www.quora.com")
+> #### I also maintain a Quora Space for AWS enthusiasts: [☁️ Everything AWS Cloud](https://www.quora.com/q/awscloud "www.quora.com")
 
-### Let's connect & make the most out of it! 💥
+#### Let's connect & make the most out of it! 💥
  💼 LinkedIn - [priyank-vaghela](https://www.linkedin.com/in/priyank-vaghela/ "www.linkedin.com")\
  🖼 Instagram - [priyankvaghela_](https://instagram.com/priyankvaghela_ "instagram.com")\
  💬 Twitter - [PriyankVaghela_](https://twitter.com/PriyankVaghela_ "twitter.com")\
