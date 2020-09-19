@@ -8,7 +8,7 @@ Apart from being a forever student, I'm a nature-lover; travelling and photograp
 > #### I also maintain a Quora Space for AWS enthusiasts: [☁️ Everything AWS Cloud](https://www.quora.com/q/awscloud "www.quora.com")
 
 #### Let's connect & make the most out of it! 💥
- 💼 LinkedIn - [priyank-vaghela](https://www.linkedin.com/in/priyank-vaghela/ "www.linkedin.com")\
+ 💼 LinkedIn - [priyank-vaghela](https://www.linkedin.com/in/priyank-vaghela/ "www.linkedin.com"){:target="_blank"}\
  🖼 Instagram - [priyankvaghela_](https://instagram.com/priyankvaghela_ "instagram.com")\
  💬 Twitter - [PriyankVaghela_](https://twitter.com/PriyankVaghela_ "twitter.com")\
  ✍ Quora - [Priyank-Vaghela-2](https://www.quora.com/profile/Priyank-Vaghela-2 "quora.com")\
