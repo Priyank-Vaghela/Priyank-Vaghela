@@ -1,12 +1,12 @@
 ![I'm all about automation.](assets/images/priyankintro.png)
 ## Welcome to my code palace!
-### I'm [Priyank](https://priyankvaghela.com/ "priyankvaghela.com"), a 22-year old self-taught programmer and a DevOps engineer with 2+ years of experience in Cloud technologies, specializing in AWS. I'm a highly passionate individual and love to work on Cloud & Automation.
+### I'm [Priyank](https://priyankvaghela.com/ "priyankvaghela.com"), a 22-year old self-taught programmer and a DevOps engineer with 2+ years of experience in Cloud technologies, specializing in AWS. I'm a highly passionate individual and loves to work on Cloud & Automation.
 ![github-cover-photo-priyank](assets/images/github-coverphoto.png)
 ### I love to create [innovative projects](https://priyankvaghela.com/projects "priyankvaghela.com"), [write about things I do](https://www.quora.com/profile/Priyank-Vaghela-2 "www.quora.com") & actively contributing to the field as a speaker. Also, I'm design focused, collaborate effectively & I'm always super excited to learn new things.
 ![github-cover-photo-priyank](assets/images/certification-collection.gif)
 > ### Certifications source: https://www.youracclaim.com/users/priyank-vaghela/badges
 
-### Apart from being a forever student, I'm a nature-lover; travelling and photography are my hobbies.
+### Apart from being a relentless and curious learner, I'm also a nature-lover; travelling and photography are my hobbies.
 > #### I also maintain a Quora Space for AWS enthusiasts: [☁️ Everything AWS Cloud](https://www.quora.com/q/awscloud "www.quora.com")
 
 ## Let's connect & make the most out of it! 💥
