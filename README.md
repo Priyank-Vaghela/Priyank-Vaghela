@@ -1,4 +1,4 @@
-![I'm all about automation.](assets/images/priyank-intro.jpg)
+![I'm all about automation.](assets/images/priyank-intro.png)
 ### ☁ Certified DevOps Engineer | 4x OCI | 4x Alibaba | 3x Udacity Scholar | 3x IBM | 2x Fortinet | 1x Cisco | AviatrixACE, ICSI Certified | AWS | K8s | Linux | Automation Ninja | Securing World 🛡🌎
 ![github-cover-photo-priyank](assets/images/github-cover-photo.png)
 
