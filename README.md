@@ -20,4 +20,4 @@
 - 💡 Some of my ideas into reality - [Projects](https://priyankvaghela.com/projects "priyankvaghela.com")
 
 Best wishes to you! :)
-- [Priyank Vaghela](https://priyankvaghela.com)
+[Priyank Vaghela](https://priyankvaghela.com)
