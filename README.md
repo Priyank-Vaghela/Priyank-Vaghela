@@ -12,6 +12,7 @@
 
 ## Let's connect & make the most out of it! 💥
  💼 LinkedIn - [priyank-vaghela](https://www.linkedin.com/in/priyank-vaghela)\
+ 🏅 Credly - [Badge Collection](https://www.youracclaim.com/users/priyank-vaghela/badges)\
  🖼 Instagram - [priyankvaghela_](https://instagram.com/priyankvaghela_ "instagram.com")\
  💬 Twitter - [PriyankVaghela_](https://twitter.com/PriyankVaghela_ "twitter.com")\
  ✍ Quora - [Priyank-Vaghela-2](https://www.quora.com/profile/Priyank-Vaghela-2 "quora.com")\
