@@ -10,7 +10,7 @@
 ### Apart from being a relentless and curious learner, I'm also a nature-lover; travelling and photography are my hobbies.
 > #### I also maintain a Quora Space for AWS enthusiasts: [☁️ Everything AWS Cloud](https://www.quora.com/q/awscloud "www.quora.com")
 
-## Let's connect & make the most out of it! 💥
+### Let's connect & make the most out of it! 💥
 - 💼 LinkedIn - [priyank-vaghela](https://www.linkedin.com/in/priyank-vaghela)
 - 🏅 Credly - [Badge Collection](https://www.youracclaim.com/users/priyank-vaghela/badges)
 - 🖼 Instagram - [priyankvaghela_](https://instagram.com/priyankvaghela_ "instagram.com")
