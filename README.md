@@ -1,7 +1,7 @@
 ![I'm all about automation.](assets/images/priyankintro.png)
 ## Welcome to my code palace!
-### I'm [Priyank](https://priyankvaghela.com/ "priyankvaghela.com"), a 22-year old self-taught programmer and a DevOps engineer with 2+ years of experience in Cloud technologies, specializing in AWS, Alibaba Cloud and Oracle Cloud.
-### I'm a highly passionate individual and loves to work on Cloud & Automation.
+### I'm [Priyank](https://priyankvaghela.com/ "priyankvaghela.com"), a self-taught programmer and a DevOps engineer with 2.5+ years of experience in cloud technologies, specializing in AWS, Alibaba Cloud and Oracle Cloud.
+### I'm a highly passionate individual and loves to work on cloud & automation. I also possess 9+ certifications in cloud technologies.
 ![github-cover-photo-priyank](assets/images/github-cover-photo.png)
 ### I love to create [innovative projects](https://priyankvaghela.com/projects "priyankvaghela.com"), [write about things I do](https://www.quora.com/profile/Priyank-Vaghela-2 "www.quora.com") & actively contributing to the field as a speaker. Also, I'm design-centric, collaborate effectively & I'm always super excited to learn new things.
 ![github-badge-collection-priyank](assets/images/certification-collection.gif)
