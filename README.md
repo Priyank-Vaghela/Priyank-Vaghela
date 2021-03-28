@@ -1,7 +1,9 @@
+![I'm all about automation.](assets/images/priyankintro.png)
+⚡ Hi, I'm Priyank Vaghela, a DevOps Engineer ☁.
+---
 ![Priyank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyank-Vaghela&show_icons=true&hide_border=true)
 
 
-![I'm all about automation.](assets/images/priyankintro.png)
 
 ## Welcome to my code palace!
 ![github-cover-photo-priyank](assets/images/github-cover-photo.png)
