@@ -1,12 +1,13 @@
 ![I'm all about automation.](assets/images/priyankintro.png)
-⚡ I'm a DevOps Engineer; I do automation and make sure your next big app never runs out of performance and reliability ☁.
+
+### ⚡ I'm a DevOps Engineer; I do automation and make sure your next big app never runs out of performance and reliability ☁.
 ---
 ![Priyank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyank-Vaghela&show_icons=true&hide_border=true)
 
 ![github-cover-photo-priyank](assets/images/github-cover-photo.png)
 
 ![github-badge-collection-priyank](assets/images/certification-collection.gif)
-> #### Certifications source: https://www.youracclaim.com/users/priyank-vaghela/badges
+#### Source: https://www.youracclaim.com/users/priyank-vaghela/badges
 
 ### Let's connect 💥
 - 💼 LinkedIn - [priyank-vaghela](https://www.linkedin.com/in/priyank-vaghela)
