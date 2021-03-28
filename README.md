@@ -3,13 +3,10 @@
 ---
 ![Priyank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyank-Vaghela&show_icons=true&hide_border=true)
 
-
-
-## Welcome to my code palace!
 ![github-cover-photo-priyank](assets/images/github-cover-photo.png)
 
 ![github-badge-collection-priyank](assets/images/certification-collection.gif)
-> ### Certifications source: https://www.youracclaim.com/users/priyank-vaghela/badges
+> #### Certifications source: https://www.youracclaim.com/users/priyank-vaghela/badges
 
 > #### I also maintain a Quora Space for AWS enthusiasts: [☁️ Everything AWS Cloud](https://www.quora.com/q/awscloud "www.quora.com")
 
