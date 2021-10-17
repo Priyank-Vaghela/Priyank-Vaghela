@@ -7,9 +7,6 @@
 
 ![github-cover-photo-priyank](assets/images/github-cover-photo.png)
 
-![github-badge-collection-priyank](assets/images/certification-collection.gif)
-#### Source: https://www.youracclaim.com/users/priyank-vaghela/badges
-
 ### 🎖 Certifications
 1.  [AWS Certified Solutions Architect – Associate](https://priyankvaghela.com/certification/being-aws-certified-solutions-architect-associate/)
 2.  [AWS Certified Cloud Practitioner](https://priyankvaghela.com/certification/being-aws-certified-cloud-practitioner/)
@@ -29,6 +26,11 @@
 16.  [Aviatrix Certified Engineer - Multi-Cloud Network Associate](https://www.linkedin.com/posts/priyank-vaghela_aviatrix-certified-multi-cloud-networking-activity-6690263339299295232-oeur)
 17.  [Udacity Cloud DevOps Engineer Nanodegree](https://priyankvaghela.com/certification/udacity-cloud-devops-engineer-nanodegree/)
 18.  [Udacity AWS Cloud Architect Nanodegree](https://priyankvaghela.com/certification/udacity-aws-cloud-architect-nanodegree/)
+
+![github-badge-collection-priyank](assets/images/certification-collection-1.gif)
+![github-badge-collection-priyank](assets/images/certification-collection-2.gif)
+#### Source: https://www.youracclaim.com/users/priyank-vaghela/badges
+
 
 ### 👀 Find more about Me
 ![https://priyankvaghela.com](https://img.shields.io/badge/Website-priyankvaghela.com-blue?style=flat-square&logo=google-chrome) ![https://www.youracclaim.com/users/priyank-vaghela/badges](https://img.shields.io/badge/🏅%20Credly-Priyank--Vaghela-blue?style=flat-square) ![https://priyankvaghela.com/projects](https://img.shields.io/badge/💡%20Projects-Priyank--Vaghela-blue?style=flat-square)
