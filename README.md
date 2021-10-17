@@ -2,10 +2,16 @@
 
 ### ⚡ I'm a [13x cloud certified](https://priyankvaghela.com/categories/certification) DevOps engineer, [automating](https://priyankvaghela.com/automation) the boring stuff, working on [innovative projects](https://priyankvaghela.com/projects) and [writing on technology.](https://priyankvaghela.com/blog)
 
----
 ![Priyank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyank-Vaghela&show_icons=true&hide_border=true)
 
 ![github-cover-photo-priyank](assets/images/github-cover-photo.png)
+
+### 👀 Find more about Me
+![https://priyankvaghela.com](https://img.shields.io/badge/Website-priyankvaghela.com-blue?style=flat-square&logo=google-chrome) ![https://www.youracclaim.com/users/priyank-vaghela/badges](https://img.shields.io/badge/🏅%20Credly-Priyank--Vaghela-blue?style=flat-square) ![https://priyankvaghela.com/projects](https://img.shields.io/badge/💡%20Projects-Priyank--Vaghela-blue?style=flat-square)
+
+### 🤝🏻 Connect with Me
+![https://www.linkedin.com/in/priyank-vaghela](https://img.shields.io/badge/LinkedIn-Priyank%20Vaghela-blue?style=flat-square&logo=linkedin) ![https://instagram.com/priyankvaghela_](https://img.shields.io/badge/Instagram-priyankvaghela__-red?style=flat-square&logo=instagram) ![https://twitter.com/PriyankVaghela_](https://img.shields.io/badge/Twitter-PriyankVaghela__-blue?style=flat-square&logo=twitter) ![https://www.quora.com/profile/Priyank-Vaghela-2](https://img.shields.io/badge/Quora-Priyank--Vaghela--2-red?style=flat-square&logo=quora)
+
 
 ### 🎖 Certifications
 1.  [AWS Certified Solutions Architect – Associate](https://priyankvaghela.com/certification/being-aws-certified-solutions-architect-associate/)
@@ -29,14 +35,7 @@
 
 ![github-badge-collection-priyank](assets/images/certification-collection-1.gif)
 ![github-badge-collection-priyank](assets/images/certification-collection-2.gif)
-#### Source: https://www.youracclaim.com/users/priyank-vaghela/badges
-
-
-### 👀 Find more about Me
-![https://priyankvaghela.com](https://img.shields.io/badge/Website-priyankvaghela.com-blue?style=flat-square&logo=google-chrome) ![https://www.youracclaim.com/users/priyank-vaghela/badges](https://img.shields.io/badge/🏅%20Credly-Priyank--Vaghela-blue?style=flat-square) ![https://priyankvaghela.com/projects](https://img.shields.io/badge/💡%20Projects-Priyank--Vaghela-blue?style=flat-square)
-
-### 🤝🏻 Connect with Me
-![https://www.linkedin.com/in/priyank-vaghela](https://img.shields.io/badge/LinkedIn-Priyank%20Vaghela-blue?style=flat-square&logo=linkedin) ![https://instagram.com/priyankvaghela_](https://img.shields.io/badge/Instagram-priyankvaghela__-red?style=flat-square&logo=instagram) ![https://twitter.com/PriyankVaghela_](https://img.shields.io/badge/Twitter-PriyankVaghela__-blue?style=flat-square&logo=twitter) ![https://www.quora.com/profile/Priyank-Vaghela-2](https://img.shields.io/badge/Quora-Priyank--Vaghela--2-red?style=flat-square&logo=quora)
+[Credly](https://www.credly.com/users/priyank-vaghela/badges)
 
 ### I also maintain a Quora Space for AWS enthusiasts: ![https://www.quora.com/q/awscloud](https://img.shields.io/badge/Quora-☁️Everything%20AWS%20Cloud-red?style=flat-square&logo=quora)
 
