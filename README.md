@@ -9,8 +9,8 @@
 ### 👀 Find more about Me
 <p>
     <a href="https://priyankvaghela.com"><img alt="Website" src="https://img.shields.io/badge/Website-priyankvaghela.com-blue?style=flat-square&amp;logo=google-chrome"></a>
-    <a href="https://www.youracclaim.com/users/priyank-vaghela/badges"><img alt="Certificate Collection - Priyank Vaghela" src="https://img.shields.io/badge/🏅%20Credly-Priyank--Vaghela-blue?style=flat-square"></a>
-    <a href="https://priyankvaghela.com/project"><img alt="Projects - Priyank Vaghela" src="https://img.shields.io/badge/💡%20Projects-Priyank--Vaghela-blue?style=flat-square"></a>
+    <a href="https://www.credly.com/users/priyank-vaghela/badges"><img alt="Certificate Collection - Priyank Vaghela" src="https://img.shields.io/badge/🏅%20Credly-Priyank--Vaghela-blue?style=flat-square"></a>
+    <a href="https://priyankvaghela.com/projects"><img alt="Projects - Priyank Vaghela" src="https://img.shields.io/badge/💡%20Projects-Priyank--Vaghela-blue?style=flat-square"></a>
 </p>
 
 ### 🤝🏻 Connect with Me
