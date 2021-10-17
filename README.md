@@ -35,7 +35,7 @@
 
 ![github-badge-collection-priyank](assets/images/certification-collection-1.gif)
 ![github-badge-collection-priyank](assets/images/certification-collection-2.gif)
-[Credly](https://www.credly.com/users/priyank-vaghela/badges)
+#### [Source: Credly](https://www.credly.com/users/priyank-vaghela/badges)
 
 ### I also maintain a Quora Space for AWS enthusiasts: ![https://www.quora.com/q/awscloud](https://img.shields.io/badge/Quora-☁️Everything%20AWS%20Cloud-red?style=flat-square&logo=quora)
 
