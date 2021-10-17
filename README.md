@@ -7,10 +7,19 @@
 ![github-cover-photo-priyank](assets/images/github-cover-photo.png)
 
 ### 👀 Find more about Me
-<p><img src="https://img.shields.io/badge/Website-priyankvaghela.com-blue?style=flat-square&amp;logo=google-chrome" alt="https://priyankvaghela.com"> <img src="https://img.shields.io/badge/🏅%20Credly-Priyank--Vaghela-blue?style=flat-square" alt="https://www.youracclaim.com/users/priyank-vaghela/badges"> <img src="https://img.shields.io/badge/💡%20Projects-Priyank--Vaghela-blue?style=flat-square" alt="https://priyankvaghela.com/projects"></p>
+<p>
+    <a href="https://priyankvaghela.com"><img alt="Website" src="https://img.shields.io/badge/Website-priyankvaghela.com-blue?style=flat-square&amp;logo=google-chrome"></a>
+    <a href="https://www.youracclaim.com/users/priyank-vaghela/badges"><img alt="Certificate Collection - Priyank Vaghela" src="https://img.shields.io/badge/🏅%20Credly-Priyank--Vaghela-blue?style=flat-square"></a>
+    <a href="https://priyankvaghela.com/project"><img alt="Projects - Priyank Vaghela" src="https://img.shields.io/badge/💡%20Projects-Priyank--Vaghela-blue?style=flat-square"></a>
+</p>
 
 ### 🤝🏻 Connect with Me
-<p><img src="https://img.shields.io/badge/LinkedIn-Priyank%20Vaghela-blue?style=flat-square&amp;logo=linkedin" alt="https://www.linkedin.com/in/priyank-vaghela"> <img src="https://img.shields.io/badge/Instagram-priyankvaghela__-red?style=flat-square&amp;logo=instagram" alt="https://instagram.com/priyankvaghela_"> <img src="https://img.shields.io/badge/Twitter-PriyankVaghela__-blue?style=flat-square&amp;logo=twitter" alt="https://twitter.com/PriyankVaghela_"> <img src="https://img.shields.io/badge/Quora-Priyank--Vaghela--2-red?style=flat-square&amp;logo=quora" alt="https://www.quora.com/profile/Priyank-Vaghela-2"></p>
+<p>
+    <a href="https://www.linkedin.com/in/priyank-vaghela"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Priyank%20Vaghela-blue?style=flat-square&amp;logo=linkedin"></a>
+    <a href="https://instagram.com/priyankvaghela_"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-priyankvaghela__-red?style=flat-square&amp;logo=instagram"></a>
+    <a href="https://twitter.com/PriyankVaghela_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-PriyankVaghela__-blue?style=flat-square&amp;logo=twitter"></a>
+    <a href="https://www.quora.com/profile/Priyank-Vaghela-2"><img alt="Quora" src="https://img.shields.io/badge/Quora-Priyank--Vaghela--2-red?style=flat-square&amp;logo=quora"></a>
+</p>
 
 ### 🎖 Certifications
 1.  [AWS Certified Solutions Architect – Associate](https://priyankvaghela.com/certification/being-aws-certified-solutions-architect-associate/)
@@ -36,6 +45,6 @@
 ![github-badge-collection-priyank](assets/images/certification-collection-2.gif)
 #### [Source: Credly](https://www.credly.com/users/priyank-vaghela/badges)
 
-<h3>I also maintain a Quora Space for AWS enthusiasts: <img src="https://img.shields.io/badge/Quora-☁️Everything%20AWS%20Cloud-red?style=flat-square&amp;logo=quora" alt="https://www.quora.com/q/awscloud"></h3>
+<h3>I also maintain a Quora Space for AWS enthusiasts: <a href="https://awscloud.quora.com"><img alt="Quora" src="https://img.shields.io/badge/Quora-☁️Everything%20AWS%20Cloud-red?style=flat-square&amp;logo=quora"></a></h3>
 
 [- Priyank Vaghela](https://priyankvaghela.com)
